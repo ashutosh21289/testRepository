@@ -1,2 +1,2 @@
 # testRepository
-Test repository for gands on
+Test repository for hands on on Sprint1
